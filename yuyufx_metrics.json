@@ -1,8 +1,15 @@
 {
-    "vixwma": 25.25725,
+    "vixwma": 25.222416666666668,
     "warmode": "WAR",
-    "updated_at": "11/23 18:13:43",
-    "fear_vix": 25.22,
-    "fear_vix5": 17.19330855018586,
-    "fear_ts": 1795425223
+    "updated_at": "11/23 18:16:47",
+    "fcmode": {
+        "state": "LATE",
+        "div": -0.047825,
+        "hi": -0.112086,
+        "asof": "2026-11-20",
+        "since": 6,
+        "last_tight": "TIGHTENING",
+        "updated_at": "2026-11-23 18:16:45",
+        "ver": 1
+    }
 }

@@ -1,11 +1,15 @@
 {
-    "vixwma": 25.250916666666665,
+    "vixwma": 25.240333333333336,
     "warmode": "WAR",
-    "updated_at": "11/26 08:03:02",
-    "ts": 1795647782,
-    "slot_ts": 1795647600,
-    "fear_vix": 25.17,
-    "fear_vix5": -8.406113537117898,
-    "fear_ts": 1795647782,
-    "recent": "slot_ts,warmode,fear_vix,fear_vix5,kind\n1795647600,WAR,25.17,-8.4061,L\n"
+    "updated_at": "11/26 08:04:36",
+    "fcmode": {
+        "state": "EXPANSION",
+        "div": -0.023032,
+        "hi": -0.083475,
+        "asof": "2026-11-25",
+        "since": 9,
+        "last_tight": "TIGHTENING",
+        "updated_at": "2026-11-26 08:04:35",
+        "ver": 1
+    }
 }

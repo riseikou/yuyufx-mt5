@@ -1,0 +1,11 @@
+{
+    "vixwma": 24.52875,
+    "warmode": "WAR",
+    "updated_at": "11/27 08:41:02",
+    "ts": 1795736462,
+    "slot_ts": 1795735800,
+    "fear_vix": 24.47,
+    "fear_vix5": -10.953420669577884,
+    "fear_ts": 1795736462,
+    "recent": "slot_ts,warmode,fear_vix,fear_vix5,kind\n1795735800,WAR,24.47,-10.9534,L\n"
+}

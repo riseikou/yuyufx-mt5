@@ -1,7 +1,7 @@
 {
-    "vixwma": 24.57,
+    "vixwma": 24.553416666666667,
     "warmode": "WAR",
-    "updated_at": "11/26 11:07:54",
+    "updated_at": "11/26 11:13:03",
     "fcmode": {
         "state": "EXPANSION",
         "div": -0.023032,
@@ -9,7 +9,7 @@
         "asof": "2026-11-25",
         "since": 9,
         "last_tight": "TIGHTENING",
-        "updated_at": "2026-11-26 11:07:52",
+        "updated_at": "2026-11-26 11:12:56",
         "ver": 1
     }
 }
